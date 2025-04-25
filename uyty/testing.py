@@ -7,5 +7,5 @@ if capitalize('hello') != 'Hello':
     raise Exception('Функция работает неверно')
 
 if capitalize('') != '':
-    raise Exception('Тесьы не выполнен')
+    raise Exception('Тест не выполнен')
 print ('Тест пройден')
